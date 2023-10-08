@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateWindow", "CreateWindo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpeningWindow", "OpeningWindow\OpeningWindow.csproj", "{C0504C6E-A812-4FB9-8DF7-CC535B2D5138}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnerWindow", "OwnerWindow\OwnerWindow.csproj", "{24E7356C-209D-453A-A5C1-F371B23B5E6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C0504C6E-A812-4FB9-8DF7-CC535B2D5138}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0504C6E-A812-4FB9-8DF7-CC535B2D5138}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0504C6E-A812-4FB9-8DF7-CC535B2D5138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E7356C-209D-453A-A5C1-F371B23B5E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E7356C-209D-453A-A5C1-F371B23B5E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E7356C-209D-453A-A5C1-F371B23B5E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E7356C-209D-453A-A5C1-F371B23B5E6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
