@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OwnerWindow", "OwnerWindow\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActivateWindow", "ActivateWindow\ActivateWindow.csproj", "{E45CF215-966E-4043-AE8F-55F1CBF0719F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloseWindow", "CloseWindow\CloseWindow.csproj", "{CF3880ED-F183-416D-A1A3-89237671C0E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloseWindow", "CloseWindow\CloseWindow.csproj", "{CF3880ED-F183-416D-A1A3-89237671C0E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifetimeWindow", "LifetimeWindow\LifetimeWindow.csproj", "{0BB26023-656B-44B0-A847-358489B59CDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LifetimeWindow", "LifetimeWindow\LifetimeWindow.csproj", "{0BB26023-656B-44B0-A847-358489B59CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationWindow", "LocationWindow\LocationWindow.csproj", "{79E10952-0A23-462A-BE5A-50725B0ED15B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0BB26023-656B-44B0-A847-358489B59CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BB26023-656B-44B0-A847-358489B59CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BB26023-656B-44B0-A847-358489B59CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E10952-0A23-462A-BE5A-50725B0ED15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E10952-0A23-462A-BE5A-50725B0ED15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E10952-0A23-462A-BE5A-50725B0ED15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E10952-0A23-462A-BE5A-50725B0ED15B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
